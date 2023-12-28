@@ -1,0 +1,8 @@
+{
+  "domain": "foxtrot",
+  "name": "Tecomat Foxtrot",
+  "codeowners": [],
+  "dependencies": ["pyfoxtrot"],
+  "requirements": [],
+  "version": "0.1.0"
+}
